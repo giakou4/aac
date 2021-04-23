@@ -38,7 +38,7 @@
 * report.pdf
 
 ### Notes
-* Note 1: For Level 2 and 3, the folder are included in code with with command: addpath. Read in folder README.txt and run its command to demonstrate results.
+* Note 1: For Level 2 and 3, the folder are included in code with with command: addpath.
 * Note 2: Scripts work only in MATLAB 2020b
 
 ## Support
