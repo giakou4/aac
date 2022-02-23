@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.provideocoalition.com/wp-content/uploads/AAC-recortado.jpg">
+</p>
+
 # MULTIMEDIA SYSTEMS
 
 ## 1. Advanced Audio Encoder 
