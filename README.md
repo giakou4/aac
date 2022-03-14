@@ -4,11 +4,11 @@
 
 [![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-cb6015)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/game_theory_spatial_PD/LICENSE)
-[![forks](https://img.shields.io/github/forks/giakou4/advanced-audio-encoder.svg)]
-[![stars](https://img.shields.io/github/stars/giakou4/advanced-audio-encoder.svg)]
-[![issues-open](https://img.shields.io/github/issues/giakou4/advanced-audio-encoder.svg)]
-[![issues-closed](https://img.shields.io/github/issues-closed/giakou4/advanced-audio-encoder.svg)]
-[![size](https://badge-size.herokuapp.com/giakou4/advanced-audio-encoder/main/)]
+[![forks](https://img.shields.io/github/forks/giakou4/advanced-audio-encoder.svg)
+![stars](https://img.shields.io/github/stars/giakou4/advanced-audio-encoder.svg)
+![issues-open](https://img.shields.io/github/issues/giakou4/advanced-audio-encoder.svg)
+![issues-closed](https://img.shields.io/github/issues-closed/giakou4/advanced-audio-encoder.svg)
+![size](https://badge-size.herokuapp.com/giakou4/advanced-audio-encoder/)
 
 
 
