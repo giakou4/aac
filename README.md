@@ -9,7 +9,7 @@
 ![issues-open](https://img.shields.io/github/issues/giakou4/advanced-audio-encoder.svg)
 ![issues-closed](https://img.shields.io/github/issues-closed/giakou4/advanced-audio-encoder.svg)
 ![size](https://badge-size.herokuapp.com/giakou4/advanced-audio-encoder/main/)
-
+	https://img.shields.io/github/realese/giakou4/advanced-audio-encoder.svg
 
 
 
