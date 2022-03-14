@@ -2,15 +2,18 @@
   <img src="https://www.provideocoalition.com/wp-content/uploads/AAC-recortado.jpg">
 </p>
 
+<div align="center">
+ 
 [![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-cb6015)](https://www.mathworks.com/products/matlab.html)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/game_theory_spatial_PD/LICENSE)
-![forks](https://img.shields.io/github/forks/giakou4/advanced-audio-encoder.svg)
-![stars](https://img.shields.io/github/stars/giakou4/advanced-audio-encoder.svg)
-![issues-open](https://img.shields.io/github/issues/giakou4/advanced-audio-encoder.svg)
-![issues-closed](https://img.shields.io/github/issues-closed/giakou4/advanced-audio-encoder.svg)
-![size](https://img.shields.io/github/languages/code-size/giakou4/advanced-audio-encoder)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/advanced-audio-encoder/LICENSE)
+ 
+[![forks](https://img.shields.io/github/forks/giakou4/game_theory_spatial_PD.svg)](https://img.shields.io/github/forks/giakou4/advanced-audio-encoder.svg)
+[![stars](https://img.shields.io/github/stars/giakou4/advanced-audio-encoder.svg)](https://img.shields.io/github/stars/giakou4/advanced-audio-encoder.svg)
+[![issues-open](https://img.shields.io/github/issues/giakou4/advanced-audio-encoder.svg)](https://img.shields.io/github/issues/giakou4/advanced-audio-encoder.svg)
+[![issues-closed](https://img.shields.io/github/issues-closed/giakou4/advanced-audio-encoder.svg)](https://img.shields.io/github/issues-closed/giakou4/game_theory_spatial_PD.svg)
+[![size](https://img.shields.io/github/languages/code-size/giakou4/advanced-audio-encoder)](https://img.shields.io/github/languages/code-size/giakou4/advanced-audio-encoder)
 
-
+</div>
 
 
 # MULTIMEDIA SYSTEMS
