@@ -2,6 +2,9 @@
   <img src="https://www.provideocoalition.com/wp-content/uploads/AAC-recortado.jpg">
 </p>
 
+[![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-cb6015)](https://www.mathworks.com/products/matlab.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/game_theory_spatial_PD/LICENSE)
+
 # MULTIMEDIA SYSTEMS
 
 ## 1. Advanced Audio Encoder 
